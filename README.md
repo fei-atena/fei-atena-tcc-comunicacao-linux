@@ -1,2 +1,3 @@
-# fei-atena-tcc-comunicacao
-Repositorio destinado ao desenvolvimento da parte de comunicacao
+# fei-atena-tcc-comunicacao-linux
+Repositorio destinado ao desenvolvimento da parte da comunicação do lado do broker/linux
+
